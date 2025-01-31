@@ -13,3 +13,17 @@
 ## 技術スタック
 
 Next.js
+
+
+srs/
+    app/
+        (login)/
+            mypage/
+                page.tsx
+        layout.tsx
+        page.tsx
+        middleware/
+            auth.ts
+    components/
+        Auth/
+            index.tsx
